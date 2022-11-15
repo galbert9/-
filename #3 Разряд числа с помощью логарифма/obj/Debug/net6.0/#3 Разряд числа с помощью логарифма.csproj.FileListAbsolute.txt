@@ -1,0 +1,15 @@
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/bin/Debug/net6.0/#3 Разряд числа с помощью логарифма
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/bin/Debug/net6.0/#3 Разряд числа с помощью логарифма.deps.json
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/bin/Debug/net6.0/#3 Разряд числа с помощью логарифма.runtimeconfig.json
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/bin/Debug/net6.0/#3 Разряд числа с помощью логарифма.dll
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/bin/Debug/net6.0/#3 Разряд числа с помощью логарифма.pdb
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/obj/Debug/net6.0/#3 Разряд числа с помощью логарифма.csproj.AssemblyReference.cache
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/obj/Debug/net6.0/#3 Разряд числа с помощью логарифма.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/obj/Debug/net6.0/#3 Разряд числа с помощью логарифма.AssemblyInfoInputs.cache
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/obj/Debug/net6.0/#3 Разряд числа с помощью логарифма.AssemblyInfo.cs
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/obj/Debug/net6.0/#3 Разряд числа с помощью логарифма.csproj.CoreCompileInputs.cache
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/obj/Debug/net6.0/#3 Разряд числа с помощью логарифма.dll
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/obj/Debug/net6.0/refint/#3 Разряд числа с помощью логарифма.dll
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/obj/Debug/net6.0/#3 Разряд числа с помощью логарифма.pdb
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/obj/Debug/net6.0/#3 Разряд числа с помощью логарифма.genruntimeconfig.cache
+/Users/gennadj/Desktop/C#/Шаблоны/#3 Разряд числа с помощью логарифма/obj/Debug/net6.0/ref/#3 Разряд числа с помощью логарифма.dll

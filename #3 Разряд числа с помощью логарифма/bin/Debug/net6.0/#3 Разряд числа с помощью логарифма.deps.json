@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "#3 Разряд числа с помощью логарифма/1.0.0": {
+        "runtime": {
+          "#3 Разряд числа с помощью логарифма.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "#3 Разряд числа с помощью логарифма/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
